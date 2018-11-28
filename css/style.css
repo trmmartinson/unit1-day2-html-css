@@ -1,0 +1,44 @@
+/*
+  I chose different colors because I could not tell default from the colors chosen for the assignent
+*/
+body {
+    background-color: #8b834a;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    background-color: #efeee7;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333333;
+}
+a {
+    color: #d21034;
+}
+h1 {
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+} 
+img {
+    padding-right: 10px;
+
+}
+#main-bio {
+    float: left;
+    width: 70%;
+}
+#contact-info {
+    line-height: 32px;
+}
+#contact-info-bio {
+    float: left;
+    width: 30%;
+}
+#bio-image {
+    float: left;
+    width: 200;
+}
